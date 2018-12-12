@@ -1,6 +1,6 @@
 # Machine Learning Fall 2017. Final exam. UCPH #
 
-## Image classiﬁcation of the protagonists in soccer ##
+## Image analysis and classiﬁcation of the protagonists in soccer ##
 
 The algorithms applied for the image analysis were Principal Component Analysis (PCA) and Support Vector Machine (SVM). This exercise is based on the research:<br/>
 
