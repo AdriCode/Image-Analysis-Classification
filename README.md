@@ -10,3 +10,6 @@ analysis. *Journal of Real-Time Image Processing*, 13(2): 345–361, 2017.
 Further reading at: 
 
 https://www.ini.rub.de/upload/file/1470692848_3b4fdb013a1703546b15/SportsAnalysis_JRTIP.pdf
+
+p.s. If you are a student of this course, please be extra critical and try to do it your own way. 
+Learning is more important than grades and deadlines.
