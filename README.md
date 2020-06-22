@@ -11,5 +11,4 @@ Further reading at:
 
 https://www.ini.rub.de/upload/file/1470692848_3b4fdb013a1703546b15/SportsAnalysis_JRTIP.pdf
 
-**P.S.:** If you are a student of this course, please be critical and try to do it your way. 
-Learning is more important than grades and deadlines.
+**P.S.:** If you are a student of this course, please be critical and try to do it your way.
