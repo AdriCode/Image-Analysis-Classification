@@ -1,4 +1,4 @@
-# Machine Learning Fall 2017. Final exam. UCPH #
+# Machine Learning. Final exam - UCPH #
 
 ## Image analysis and classiﬁcation of the protagonists in soccer ##
 
