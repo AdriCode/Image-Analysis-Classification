@@ -7,8 +7,8 @@ The algorithms applied were Principal Component Analysis (PCA) and Support Vecto
 M. Schlipsing, J. Salmen, M. P. Tschentscher, and C. Igel. Adaptive pattern recognition in real-time video-based soccer 
 analysis. *Journal of Real-Time Image Processing*, 13(2): 345–361, 2017.
 
-Further reading at: 
+Further reading: 
 
 https://www.ini.rub.de/upload/file/1470692848_3b4fdb013a1703546b15/SportsAnalysis_JRTIP.pdf
 
-**P.S.:** If you are a student of this course, please be critical and try to do it your way.
+**P.S.:** If you are a student of this course, please be critical and try to do it in another way.
