@@ -1,4 +1,4 @@
-# Machine Learning. Final exam - UCPH #
+# Machine Learning - UCPH #
 
 ## Image analysis and classiﬁcation of the protagonists in soccer ##
 
